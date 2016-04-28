@@ -1,0 +1,8 @@
+<?jelly escape-by-default='true'?>
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+ This plugin will check the SoanrQube quality gate status against a project and change the Jenkin's build result to sonarQube QualityGate success or sonarQube QualityGate Fail.
+.
+</div>
